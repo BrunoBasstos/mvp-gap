@@ -159,7 +159,6 @@ Lean Inception
     - Em casa, Cláudia prepara uma refeição saudável e a registra no aplicativo.
     - Antes de dormir, Cláudia usa o aplicativo para se conectar com outros usuários que também estão na jornada para
       uma vida mais saudável.  
-      
 
 #### Brainstorming
 - Configurar lembretes  
@@ -194,3 +193,9 @@ Lean Inception
 
 #### MVP Canvas
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/e0e89078-a19a-45a1-a5a8-63c1c6b3ed35)
+
+# UI/UX Design
+#### Protótipo de baixa fidelidade
+- Miro: https://miro.com/app/board/uXjVM7xZItM=/
+- Screenshot
+![img.png](img.png)
