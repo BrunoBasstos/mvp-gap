@@ -196,6 +196,5 @@ Lean Inception
 
 # UI/UX Design
 #### Protótipo de baixa fidelidade
-- Miro: https://miro.com/app/board/uXjVM7xZItM=/
-- Screenshot
-![img.png](img.png)
+- Figma Screenshot
+![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/98b1cef0-f8f7-4385-9b20-3f299bd22c3d)
