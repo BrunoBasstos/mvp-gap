@@ -187,7 +187,10 @@ Lean Inception
 - Conectar com dispositivos smart para sincronizar atividades.  
 
 #### Revisão Técnica, de Negócio e de Usabilidade
+![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/41f890ac-a9b6-447e-8e54-a36493aaf182)
 
 #### Sequenciador
+![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/33ce7a0c-cad0-4948-af07-2a5874796ea6)
 
 #### MVP Canvas
+![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/e0e89078-a19a-45a1-a5a8-63c1c6b3ed35)
