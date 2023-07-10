@@ -196,9 +196,10 @@ Lean Inception
 
 # UI/UX Design
 #### Protótipo de baixa fidelidade
-- Figma Screenshot
+- Figma link: https://www.figma.com/file/cHBkgx2W8imhoU3a7vMm3u/MVP---Bem-Me-Quero?type=design&node-id=1-4&mode=design
+- Figma Screenshot:
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/98b1cef0-f8f7-4385-9b20-3f299bd22c3d)
 
 # Backlog do Produto
-#### Jira Screenshot
+#### Jira Screenshot:
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/8059fed1-a219-4a8e-8273-6f61d03d3007)
