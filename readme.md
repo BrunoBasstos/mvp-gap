@@ -28,6 +28,9 @@ O projeto consiste em um aplicativo mobile android para acompanhamento de bem-es
 Lean Inception
 ==============
 
+### url do projeto no miro
+https://miro.com/app/board/uXjVM7xZItM=/ 
+
 #### Visão
 
 - PARA pessoas
@@ -194,12 +197,29 @@ Lean Inception
 #### MVP Canvas
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/e0e89078-a19a-45a1-a5a8-63c1c6b3ed35)
 
-# UI/UX Design
+UI/UX Design
+==============
+
 #### Protótipo de baixa fidelidade
 - Figma link: https://www.figma.com/file/cHBkgx2W8imhoU3a7vMm3u/MVP---Bem-Me-Quero?type=design&node-id=1-4&mode=design
 - Figma Screenshot:
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/98b1cef0-f8f7-4385-9b20-3f299bd22c3d)
 
-# Backlog do Produto
+Backlog do Produto
+==============
+
 #### Jira Screenshot:
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/8059fed1-a219-4a8e-8273-6f61d03d3007)
+
+Backlog da Sprint
+==============
+
+#### Jira Screenshot:
+![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/184cd418-17f3-4923-853e-dc0010104180)
+![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/ad5c918e-824a-41cf-80f7-a71c50993384)
+
+
+video 
+==============
+
+https://www.loom.com/share/2e7781c56fcf4de489d62c7846695d10?sid=bd1e3281-5787-4342-b437-ec3785241ef1
