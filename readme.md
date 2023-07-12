@@ -28,6 +28,9 @@ O projeto consiste em um aplicativo mobile android para acompanhamento de bem-es
 Lean Inception
 ==============
 
+### url do projeto no miro
+https://miro.com/app/board/uXjVM7xZItM=/?share_link_id=963010744872
+
 #### Visão
 
 - PARA pessoas
