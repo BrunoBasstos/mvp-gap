@@ -217,3 +217,9 @@ Backlog da Sprint
 #### Jira Screenshot:
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/184cd418-17f3-4923-853e-dc0010104180)
 ![image](https://github.com/BrunoBasstos/mvp-gap/assets/5402439/ad5c918e-824a-41cf-80f7-a71c50993384)
+
+
+video 
+==============
+
+https://www.loom.com/share/2e7781c56fcf4de489d62c7846695d10?sid=bd1e3281-5787-4342-b437-ec3785241ef1
