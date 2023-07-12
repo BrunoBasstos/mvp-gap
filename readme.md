@@ -29,7 +29,7 @@ Lean Inception
 ==============
 
 ### url do projeto no miro
-https://miro.com/app/board/uXjVM7xZItM=/?share_link_id=963010744872
+https://miro.com/app/board/uXjVM7xZItM=/ 
 
 #### Visão
 
